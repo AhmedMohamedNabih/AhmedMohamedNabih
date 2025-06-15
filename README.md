@@ -1,72 +1,91 @@
-<div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
-
----
-
 ### 👋 Hi! I'm Ahmed Nabih
+
 🎓 A third-year Computer Science student at **The Culture & Science City (CSC)**  
-🧠 Specializing in **Data Science & Machine Learning**  
+📍 Egypt | 📅 2022 – 2025  
+🧠 Specializing in **Data Science, Machine Learning, and Predictive Modeling**  
 📊 Passionate about transforming data into real-world insights  
 
 ---
 
-<details>
-<summary>🎧 Currently learning & vibing to:</summary>
+### 🧠 About Me
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedMohamedNabih&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedMohamedNabih&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+- 📚 I’m currently studying **Data Science** and taking AI training at MEC Academy.
+- 💡 I enjoy analyzing data, building predictive models, and making insights visual.
+- ⚡ Fun fact: I love writing Arabic poetry sometimes (شِعر 💭).
 
 ---
 
-### 🚀 Tools I Use
+### 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=matplotlib)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+#### 📊 Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3B414A?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+#### 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🌐 Web Development (Full Stack)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+#### 🛠️ Tools & IDEs
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Featured Projects
+
+📊 **Titanic Survival Prediction**  
+Predicting survival of Titanic passengers using logistic regression & EDA.  
+🛠️ *Python, Pandas, Seaborn, Scikit-learn*  
+🔗 [Kaggle Notebook](https://www.kaggle.com/code/ahmedmohamednabih/titanic0/notebook)
+
+🚗 **Car Price Prediction**  
+Estimating car prices using regression based on car features.  
+🛠️ *Python, Pandas, Matplotlib, Linear Regression*  
+🔗 [Kaggle Notebook](https://www.kaggle.com/code/ahmedmohamednabih/car-price-pre/notebook)
+
+🏡 **House Price Prediction**  
+Regression model for house prices based on location, size, etc.  
+🛠️ *Python, XGBoost, Pandas, Scikit-learn*  
+🔗 [Kaggle Notebook](https://www.kaggle.com/code/ahmedmohamednabih/houses)
+
+
+---
+
+### 🧩 Services I Offer
+
+| Data Science                      | AI Development                     | Web Development                 |
+|----------------------------------|------------------------------------|----------------------------------|
+| Python (Pandas, NumPy, Matplotlib) | TensorFlow / PyTorch               | HTML, CSS, JS                   |
+| Data Cleaning & Analysis         | NLP / Computer Vision              | Bootstrap, Laravel              |
+| Data Visualization               | AI Model Deployment                | XAMPP / Full-Stack Development  |
+
+---
+
+### 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohamedNabih&show_icons=true&theme=radical" width="45%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohamedNabih&layout=compact&theme=radical" width="45%">
 
 ---
 
-### 📌 Featured Projects
+### 📫 Get in Touch
 
-- **🔍 Churn Prediction**  
-  Predicting customer churn using classification models (Logistic Regression, Random Forest)  
-  Tech: Python, pandas, sklearn  
-  [View Repo](https://github.com/AhmedMohamedNabih/churn-pred...)
+[![LinkedIn](https://img.shields.io/badge/-Ahmed%20Nabih-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mohamed-a-m)  
+📧 Email: anabih521@gmail.com
 
-- **❤️ Heart Disease Prediction**  
-  Predicting risk of heart disease based on medical data  
-  Tech: Python, pandas, logistic regression  
-  [Coming Soon]
-
-- **🏡 House Prices**  
-  Advanced regression techniques to estimate property prices  
-  Tech: Python, XGBoost, pandas, matplotlib  
-  [Coming Soon]
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-Ahmed%20Nabih-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mohamed-a-m)  
-📧 anabih521@gmail.com
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedMohamedNabih&style=flat&color=orange&label=PROFILE+VIEWS)
