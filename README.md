@@ -11,7 +11,6 @@
 
 - 📚 I’m currently studying **Data Science** and taking AI training at MEC Academy.
 - 💡 I enjoy analyzing data, building predictive models, and making insights visual.
-- ⚡ Fun fact: I love writing Arabic poetry sometimes (شِعر 💭).
 
 ---
 
