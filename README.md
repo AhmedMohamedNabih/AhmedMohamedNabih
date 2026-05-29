@@ -1,11 +1,9 @@
-About Me:
-Aspiring Data Scientist and Machine Learning enthusiast with hands-on experience in analyzing, cleaning, and modeling data using Python, Pandas, NumPy, and SQL. I enjoy discovering patterns in data and turning them into actionable insights.
+## Hi, I'm Ahmed Mohamed Nabih 👋
 
-I have practical experience with ML projects, including predictive modeling and NLP-based sentiment analysis. Currently, I’m diving deeper into Generative AI and exploring how to create efficient, real-world AI solutions.
+Aspiring Data Scientist with hands-on experience in data analysis, machine learning, and NLP projects.  
+I work with Python, SQL, Pandas, NumPy, Scikit-learn, and Streamlit to clean data, build models, and turn insights into practical solutions.
 
-I am passionate about continuous learning and improving my technical skills through hands-on projects and practical applications. I enjoy working with data, experimenting with machine learning models, and exploring new technologies in AI and data science.
-
-Eager to learn and grow, I focus on using analytical thinking and problem-solving to tackle meaningful challenges and build impactful data-driven solutions.
+Currently, I’m exploring Generative AI and building real-world AI applications.
 
 
 
