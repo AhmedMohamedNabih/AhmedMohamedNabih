@@ -1,10 +1,11 @@
 ## Hi, I'm Ahmed Mohamed Nabih 👋
 
-Aspiring AI Engineer & Data Scientist passionate about building intelligent systems and data-driven solutions for real-world challenges. Experienced in Machine Learning, Deep Learning, NLP, Data Analytics, and Big Data technologies.
+Aspiring AI Engineer & Data Scientist with hands-on experience in Machine Learning, Deep Learning, NLP, and Data Analytics. Passionate about building intelligent systems and transforming data into actionable insights.
 
-Developed AI and data science projects including fraud detection systems, smart expense analytics, OCR-powered document intelligence, educational AI platforms, and predictive analytics solutions. Skilled in Python, SQL, Spark, TensorFlow, PyTorch, FastAPI, and modern data science tools.
+Developed projects in predictive analytics, fraud detection, smart expense analysis, and document intelligence using Python and modern machine learning frameworks. Skilled in Python, SQL, TensorFlow, PyTorch, FastAPI, and data science tools for data processing, modeling, and visualization.
 
-Currently exploring Generative AI, Multi-Agent Systems, RAG architectures, and MLOps while continuously expanding my expertise through hands-on development and research-driven projects.
+Currently expanding my knowledge in Generative AI, LLM applications, and scalable AI systems through continuous learning and hands-on projects.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-a-m/) 
