@@ -1,10 +1,10 @@
 ## Hi, I'm Ahmed Mohamed Nabih 👋
 
-Aspiring Data Scientist with hands-on experience in data analysis, machine learning, and NLP projects.  
-I work with Python, SQL, Pandas, NumPy, Scikit-learn, and Streamlit to clean data, build models, and turn insights into practical solutions.
+AI & Data Science Enthusiast passionate about building intelligent systems that solve real-world problems. Experienced in Machine Learning, Deep Learning, NLP, Data Analytics, and Big Data technologies.
 
-Currently, I’m exploring Generative AI and building real-world AI applications.
+Developed projects in fraud detection, smart expense tracking, document intelligence, educational AI systems, and predictive analytics. Proficient in Python, SQL, Spark, TensorFlow, PyTorch, FastAPI, and modern data science tools.
 
+Actively exploring Generative AI, Multi-Agent Systems, RAG architectures, and MLOps while continuously improving my skills through hands-on development and research-driven projects.
 
 
 ## 🌐 Socials:
